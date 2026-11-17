@@ -6,8 +6,6 @@ An overnight AI agent that remembers every supplier promise with **Cognee** and 
 
 Built in one night at **Agents After Dark — UC Berkeley (Nov 16, 2026)** · Track: **Best Use of Cognee**
 
-### ▶ [Watch the 2-minute demo](Night_Shift_Final.mp4)
-
 ---
 
 ## The problem
