@@ -94,4 +94,4 @@ python -m pytest tests/            # offline tests, no API key needed
 
 ## Team
 
-Zaid Adassi · *teammate* · *teammate*
+Zaid Adassi · Abdirahman Nuur
