@@ -1,4 +1,4 @@
-# Salis After Dark
+# Night Shift
 
 **An AI operations agent that builds and tests business automations while you sleep.**
 Agents After Dark @ UC Berkeley — Best Use of Cognee track.
