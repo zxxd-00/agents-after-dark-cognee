@@ -1,0 +1,5 @@
+cognee[gliner]
+openai
+streamlit
+python-dotenv
+pytest
